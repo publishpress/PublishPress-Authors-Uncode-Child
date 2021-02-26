@@ -1,2 +1,2 @@
-# PublishPress-Authors-GeneratePress-Child
-Child theme for GeneratePress theme for adding compatibility with PublishPress Authors
+# PublishPress-Authors-Uncode-Child
+Child theme for Uncode theme for adding compatibility with PublishPress Authors
